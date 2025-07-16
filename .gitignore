@@ -1,3 +1,7 @@
 *.csv
 
 .idea
+
+*.png
+
+BR_UF_2024*
